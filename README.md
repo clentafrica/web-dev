@@ -32,6 +32,12 @@ To get started with contributing to the CLENT Africa website development, follow
    cd web-dev
    ```
 
+2. **Switch to staging branch**
+   ```bash
+   git checkout staging 
+   cd web-dev
+   ```
+
 2. **Install dependencies:**
    ```bash
    npm install
