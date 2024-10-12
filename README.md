@@ -32,12 +32,6 @@ To get started with contributing to the CLENT Africa website development, follow
    cd web-dev
    ```
 
-2. **Switch to staging branch**
-   ```bash
-   git checkout staging 
-   cd web-dev
-   ```
-
 2. **Install dependencies:**
    ```bash
    npm install
@@ -79,20 +73,24 @@ We welcome contributions from the community! To contribute, please follow these 
    cd web-dev
    ```
 
-3. **Create a new branch:**
+3. **Switch to staging branch**
+   ```bash
+   git checkout staging 
+   ```
+4. **Create a new feature branch:**
    ```bash
    git checkout -b feature-name
    ```
 
-4. **Make your changes:**
+5. **Make your changes:**
    Implement your feature or fix a bug.
 
-5. **Commit your changes:**
+6. **Commit your changes:**
    ```bash
    git commit -m "Description of your changes"
    ```
 
-6. **Push to your fork:**
+7. **Push to your fork:**
    ```bash
    git push origin feature-name
    ```
